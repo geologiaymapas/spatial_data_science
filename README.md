@@ -7,7 +7,7 @@ La ciencia de datos espaciales (SDS) es un subconjunto de la ciencia de datos qu
 
 SDS trata la ubicación, la distancia y las interacciones espaciales como aspectos centrales de los datos utilizando métodos y software especializados para analizar, visualizar y aplicar lo aprendido a casos de uso espacial.
 
-Una buena referencia a este tema es este libro (Geographic Data Science with Python)[https://geographicdata.science/book/intro.html] 
+Una buena referencia a este tema es este libro [Geographic Data Science with Python](https://geographicdata.science/book/intro.html)
 
 Notebooks utiles pueden ser:
 
@@ -26,11 +26,11 @@ Notebooks utiles pueden ser:
 
 
 ## Codigo de conducta
-Puedes ver el codigo de conducto en este (Link)[CODE_OF_CONDUCT.md]
+Puedes ver el codigo de conducto en este [Link](CODE_OF_CONDUCT.md)
 
 
 ## Contribuye
-Puedes ver las normas de contribución en este (Link)[CONTRIBUTING.md]
+Puedes ver las normas de contribución en este [link](CONTRIBUTING.md)
 
 ## Copyright
 2024 Marco Hernandez
